@@ -1919,7 +1919,7 @@
 	}
 
 	:-moz-placeholder {
-		/*color: #b2b2b2 !important;
+		color: #b2b2b2 !important;
 		opacity: 1.0;
 	}
 
@@ -1940,7 +1940,7 @@
 
 /* Box */
 
-	/*.box {
+	.box {
 		border-radius: 0.35em;
 		border: solid 2px #efefef;
 		margin-bottom: 2em;
@@ -1961,7 +1961,7 @@
 
 /* Icon */
 
-	/*.icon {
+	.icon {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
@@ -1982,7 +1982,7 @@
 
 /* Image */
 
-/*	.image {
+.image {
 		border-radius: 0.35em;
 		border: 0;
 		display: inline-block;
@@ -2041,7 +2041,7 @@
 			.image.thumb:hover:before {
 				background: url("images/overlay.png"), url("images/overlay.png");
 				opacity: 1.0;
-			}*/
+			}
 
 		.image img {
 			border-radius: 0.35em;
@@ -2590,7 +2590,7 @@
 
 /* Poptrox */
 
-	/*@-moz-keyframes spin {
+	@-moz-keyframes spin {
 		0% {
 			-moz-transform: rotate(0deg);
 			-webkit-transform: rotate(0deg);
@@ -2848,7 +2848,7 @@
 		background-size: auto, cover;
 	}
 
-	/*body.is-touch .poptrox-popup .nav-next,
+	body.is-touch .poptrox-popup .nav-next,
 	body.is-touch .poptrox-popup .nav-previous,
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
@@ -3055,7 +3055,7 @@
 
 		/* Poptrox */
 
-			/*.poptrox-popup {
+			.poptrox-popup {
 				border-radius: 0;
 			}
 
