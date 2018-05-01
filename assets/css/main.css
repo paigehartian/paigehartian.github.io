@@ -2590,7 +2590,7 @@
 
 /* Poptrox */
 
-	@-moz-keyframes spin {
+	/*@-moz-keyframes spin {
 		0% {
 			-moz-transform: rotate(0deg);
 			-webkit-transform: rotate(0deg);
@@ -2848,11 +2848,11 @@
 		background-size: auto, cover;
 	}
 
-	body.is-touch .poptrox-popup .nav-next,
+	/*body.is-touch .poptrox-popup .nav-next,
 	body.is-touch .poptrox-popup .nav-previous,
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
-	}
+	}*/
 
 /* XLarge */
 
@@ -3055,7 +3055,7 @@
 
 		/* Poptrox */
 
-			.poptrox-popup {
+			/*.poptrox-popup {
 				border-radius: 0;
 			}
 
